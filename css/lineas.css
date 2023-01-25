@@ -12,3 +12,7 @@
 #foto {
     max-width: 300px;
 }
+
+#boton {
+    align-items: flex-end;
+}
