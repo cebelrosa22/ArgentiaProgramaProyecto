@@ -16,3 +16,7 @@
 #boton {
     align-items: flex-end;
 }
+
+#imagen {
+    height: 360px;
+}
